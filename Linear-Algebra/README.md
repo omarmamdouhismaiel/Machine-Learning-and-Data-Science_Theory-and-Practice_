@@ -1,3 +1,1 @@
-Here's some regular text.
-<p style="text-align: center;">Linear Algebra</p>
-And some more regular text.
+<h1 align="center", font-weight: "bold">Linear Algebra</h1>
