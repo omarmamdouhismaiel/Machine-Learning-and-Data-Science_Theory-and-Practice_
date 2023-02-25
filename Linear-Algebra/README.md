@@ -9,6 +9,6 @@
 <h2 align="left", font-weight: "bold">- What is Linear Algebra?</h2>
 
 **'Algebra'** is arithmetic that includes non-numerical entities like *x*, e.g.: 
-                             2*x* + 5 = 25, then we have determined ***x* must equal 10** because 2(**10**) + 5 = 25
+<p align="center">2<em>x</em> + 5 = 25, then we have determined **<em>x</em> must equal 10** because 2(**10**) + 5 = 25</p>
 
 > If it has an exponential term, it isn't linear algebra, e.g.: 2*x*<sup>2</sup> + 5 = 25
