@@ -6,9 +6,12 @@
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-<h2 align="left", font-weight: "bold">- What is Algebra?</h2>
+<h2 align="left", font-weight: "bold">- What Algebra is?</h2>
 
 **'Algebra'** is arithmetic that includes non-numerical entities like *x*, e.g.: 
 <p align="center">2<em>x</em> + 5 = 25, then we have determined <strong><em>x</em> must equal 10</strong> because 2(<strong>10</strong>) + 5 = 25</p>
 
 > If it has an exponential term, it isn't linear algebra, e.g.: 2*x*<sup>2</sup> + 5 = 25
+
+
+<h2 align="left", font-weight: "bold">- What Linear Algebra is?</h2>
