@@ -43,11 +43,7 @@ Consider the following example:
 <p align="center"><em>d</em> = 3(<em>t</em> - 5) = 3(30 - 5) = 3(25) = 75 km</p>
 
 <p><strong>Algebraic Solutions:</strong></p>
-
-<p><strong>No solution</strong> if ahmed's car is same speed as belal's.</p>
 ![infinitesolutions](https://user-images.githubusercontent.com/90105797/221915549-b0ef13db-b5ee-44e3-83c2-61b3acf7dc25.png) 
-
-<p><strong>Infinite solutions</strong> if same speed and same starting point.</p>
 ![nosolution](https://user-images.githubusercontent.com/90105797/221915601-2da24ccf-c35d-4898-84cf-680f0a934fbe.png)
 
 
