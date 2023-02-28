@@ -60,8 +60,6 @@ In a given system of equations:
 - <p>Could be <em>many</em> equations.</p>
 - <p>Could be <em>many</em> unknowns in each equation.</p>
 
-<p align="center"> As in <strong>Regression Models</strong>: y = a + b <em>x<sub>1</sub></em> + c <em>x<sub>2</sub></em> + ... + n <em>x<sub>n</sub></em></p>
+<p align="center", font-weight: "bold">As in <strong>Regression Models</strong>, <em>y</em> = a + b <em>x<sub>1</sub></em> + c <em>x<sub>2</sub></em> + ... + n <em>x<sub>n</sub></em></p>
 
-
-
-
+<p align="center", font-weight: "bold">For any house <em>i(=[1:m])</em> in the dataset (has m examples), y<sub>i</sub> and x<sub>i,1</sub> to x<sub>i,n</sub> are its features. We solve for parameters <strong>a</strong>, <strong>b</strong>, <strong>c</strong> to <strong>n</strong>.</p>
