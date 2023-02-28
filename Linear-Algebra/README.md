@@ -53,11 +53,10 @@ Consider the following example:
 
 > <p><em>These are the only three options in linear algebra</em>: one, no, or infinite solutions.</p>
 > <p><strong>It is impossible for lines to cross multiple times.</strong></p>
-> 
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-<p><strong>In a given system of equations:</strong></p>
+><h4>In a given system of equations:</h4>
  -<p><strong>Could be <em>many</em> equations.</strong></p> 
  -<p><strong>Could be <em>many</em> unknowns in each equation.</strong></p>
 
