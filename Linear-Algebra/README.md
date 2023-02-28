@@ -56,7 +56,8 @@ Consider the following example:
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-In a given system of equations:
+<h4 align="left">In a given system of equations:</h4>
+
 - <p>Could be <em>many</em> equations.</p>
 - <p>Could be <em>many</em> unknowns in each equation.</p>
 
@@ -68,3 +69,15 @@ In a given system of equations:
 ![RegressionModelMatrixRepresentation](https://user-images.githubusercontent.com/90105797/222003367-06acbe1d-7ffe-4201-a160-26a2f36cfbc2.png)
 
 ---------------------------------------------------------------------------------
+
+<h2 align="left", font-weight: "bold">Linear Algebra Applications:</h2>
+
+- <p><strong>Solving for unknowns in ML algos, including deep learning</strong></p>
+- <p><strong>Reducing dimensionality (e.g., principal component analysis)</strong></p>
+- <p><strong>Ranking results (e.g., with eigenvector)</strong></p>
+- <p><strong>Recommenders (e.g., singular value decomposition, SVD)</strong></p>
+- <p><strong>Natural language processing (e.g., SVD, matrix factorization)</strong></p>
+
+  - <p><strong>Topic modeling</strong></p>
+  - <p><strong>Semantic Analysis</strong></p>
+ 
