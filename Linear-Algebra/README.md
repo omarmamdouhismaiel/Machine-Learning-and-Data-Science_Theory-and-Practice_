@@ -14,6 +14,9 @@
 > If it has an exponential term, it isn't linear algebra, e.g.: 2*x*<sup>2</sup> + 5 = 25
 
 
+
+
+
 <h2 align="left", font-weight: "bold">- What Linear Algebra is?</h2>
 <p align="center"><strong>"Solving for unknowns within system of linear equations"</strong></p>
 
