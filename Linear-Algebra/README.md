@@ -51,9 +51,15 @@ Consider the following example:
 <p><strong>Infinite solutions</strong> if same speed and same starting point.</p>
 
 
-> <p> <em>These are the only three options in linear algebra</em>: one, no, or infinite solutions.</p>
+> <p><em>These are the only three options in linear algebra</em>: one, no, or infinite solutions.</p>
 > <p><strong>It is impossible for lines to cross multiple times.</strong></p>
+> 
 
----------------------------------------------------------------------------------
+> In a given system of equations:
+> + <p>Could be <em>many</em> equations.</p>
+  + <p>Could be <em>many</em> unknowns in each equation.</p>
+<p align="center"> As in Regression Models: y = a + b<em>x<sub>1</sub></em> + c<em>x<sub>2</sub></em> + ... + n<em>x<sub>n</sub></em></p>
+
+
 
 
