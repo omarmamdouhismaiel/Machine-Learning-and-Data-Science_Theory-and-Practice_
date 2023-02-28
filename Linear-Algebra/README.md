@@ -63,6 +63,6 @@ In a given system of equations:
 
 <p align="left", font-weight: "bold">As in <strong>Regression Models</strong>, <em>y</em> = a + b <em>x<sub>1</sub></em> + c <em>x<sub>2</sub></em> + ... + n <em>x<sub>n</sub></em></p>
 
-![RegressionModelMatrixRepresentation](https://user-images.githubusercontent.com/90105797/222000746-bd781a8c-c424-406c-be4c-02d68701fe23.png)
-
 <p align="center", font-weight: "bold">For any house <em>i(=[1:m])</em> in the dataset (has m examples), y<sub>i</sub> = price and x<sub>i,1</sub> to x<sub>i,n</sub> are its features. We solve for parameters <strong>a</strong>, <strong>b</strong>, <strong>c</strong> to <strong>n</strong>.</p>
+
+![RegressionModelMatrixRepresentation](https://user-images.githubusercontent.com/90105797/222003367-06acbe1d-7ffe-4201-a160-26a2f36cfbc2.png)
