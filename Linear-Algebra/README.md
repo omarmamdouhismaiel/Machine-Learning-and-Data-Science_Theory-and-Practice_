@@ -56,9 +56,9 @@ Consider the following example:
 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
-> <h4>In a given system of equations:</h4>
-> -<p><strong>Could be <em>many</em> equations.</strong></p> 
-> -<p><strong>Could be <em>many</em> unknowns in each equation.</strong></p>
+> - <h4>In a given system of equations:</h4>
+>   - <p><strong>Could be <em>many</em> equations.</strong></p>
+>   - <p><strong>Could be <em>many</em> unknowns in each equation.</strong></p>
 
 <p align="center"> As in <strong>Regression Models</strong>: y = a + b <em>x<sub>1</sub></em> + c <em>x<sub>2</sub></em> + ... + n <em>x<sub>n</sub></em></p>
 
