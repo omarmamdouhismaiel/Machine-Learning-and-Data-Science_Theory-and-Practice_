@@ -4,7 +4,7 @@
 > * **Linear Algebra** is used to solve for ***unknown values*** in ***high-dimensional spaces***, thereby enabling machines to ***recognize patterns*** and ***make predictions***. 
 
 
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+---------------------------------------------------------------------------------
 
 <h2 align="left", font-weight: "bold">- What Algebra is?</h2>
 
@@ -13,9 +13,7 @@
 
 > If it has an exponential term, it isn't linear algebra, e.g.: 2*x*<sup>2</sup> + 5 = 25
 
-
-
-
+---------------------------------------------------------------------------------
 
 <h2 align="left", font-weight: "bold">- What Linear Algebra is?</h2>
 <p align="center"><strong>"Solving for unknowns within system of linear equations"</strong></p>
@@ -47,12 +45,15 @@ Consider the following example:
 ![nosolution](https://user-images.githubusercontent.com/90105797/221915601-2da24ccf-c35d-4898-84cf-680f0a934fbe.png)
 <p><strong>No solution</strong> if ahmed's car is same speed as belal's.</p>
 
----------------------------------------------------------------------------------
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
 ![infinitesolutions](https://user-images.githubusercontent.com/90105797/221915549-b0ef13db-b5ee-44e3-83c2-61b3acf7dc25.png)
 <p><strong>Infinite solutions</strong> if same speed and same starting point.</p>
 
 
 > <p> <em>These are the only three options in linear algebra</em>: one, no, or infinite solutions.</p>
 > <p><strong>It is impossible for lines to cross multiple times.</strong></p>
+
+---------------------------------------------------------------------------------
 
 
