@@ -51,6 +51,7 @@ Consider the following example:
 ![infinitesolutions](https://user-images.githubusercontent.com/90105797/221915549-b0ef13db-b5ee-44e3-83c2-61b3acf7dc25.png)
 <p><strong>Infinite solutions</strong> if same speed and same starting point.</p>
 
-
+> <p> <em>These are the only three options in linear algebra</em>: one, no, or infinite solutions.
+  <strong>It is impossible for lines to cross multiple times.</strong></p>
 
 
