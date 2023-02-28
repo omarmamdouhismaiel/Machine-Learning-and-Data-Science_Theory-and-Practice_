@@ -28,7 +28,7 @@ Consider the following example:
 ![SolvingGraphically](https://user-images.githubusercontent.com/90105797/221732059-47563ce8-86df-406f-b7bf-902f26d95c3f.png)
 
 > <p>Alternatively, problem can be solved <strong><em>algebraically</em></strong>:
-<p align="center">Equation 1: <em>d</em> = 2.5<em>t</em></p>
+<p align="center">Equation 1: <em>d</em> = 2.5<em>t</em>  </p>
 <p align="center">Equation 2: <em>d</em> = 3(<em>t</em>-5)</p>
 
 <p align="center"2.5<em>t</em> = 3(<em>t</em>-5)</p>
