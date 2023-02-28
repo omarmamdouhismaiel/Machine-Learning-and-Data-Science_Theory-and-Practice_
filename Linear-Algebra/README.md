@@ -18,7 +18,6 @@
 <p align="center"><strong>"Solving for unknowns within system of linear equations"</strong></p>
 
 Consider the following example:
-
 + Ahmed has 180 km/h car.
 + Belal has 150 km/h car and five-minute head start.
 + How long does it take the ahmed to meet the belal?
