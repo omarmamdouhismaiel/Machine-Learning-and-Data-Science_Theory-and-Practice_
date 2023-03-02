@@ -28,7 +28,8 @@ Consider the following example:
 > <p>Problem can be solved <strong><em>graphically</em></strong> with a plot:</p>
 ![SolvingGraphically](https://user-images.githubusercontent.com/90105797/221732059-47563ce8-86df-406f-b7bf-902f26d95c3f.png)
 
-> <p>See [<em>Appendix-I: Plotting a System of Linear Equations.</em> Notebook](Linear-Algebra/Appendix-I_Plotting-a-System-of-Linear-Equations.ipynb)</p>
+See: [Appendix-I: Plotting a System of Linear Equations Notebook](Linear-Algebra/Appendix-I_Plotting-a-System-of-Linear-Equations.ipynb)
+ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 > <p>Alternatively, problem can be solved <strong><em>algebraically</em></strong>:
 <p align="center">Equation 1: <em>d</em> = 2.5<em>t</em></p>
