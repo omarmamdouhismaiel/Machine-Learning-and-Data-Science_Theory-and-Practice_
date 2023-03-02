@@ -110,4 +110,4 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
 <p align="left", font-weight: "bold">3. No solutions, where {equation 1: <em>w</em> = <em>t</em>, and equation 2: <em>w</em> = <em>t</em>-30}<br /></p>
 <br />
 
-<h3 So, Let's dive into <strong>Computational Linear Algebra</strong> with <strong><em>theory-behind</em><strong> explanation.</h3>
+<h3> So, Let's dive into <strong>Computational Linear Algebra</strong> with <strong><em>theory-behind</em><strong> explanation.</h3>
