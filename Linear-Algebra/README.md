@@ -28,7 +28,7 @@ Consider the following example:
 > <p>Problem can be solved <strong><em>graphically</em></strong> with a plot:</p>
 ![SolvingGraphically](https://user-images.githubusercontent.com/90105797/221732059-47563ce8-86df-406f-b7bf-902f26d95c3f.png)
 
-See: [Appendix-I: Plotting a System of Linear Equations Notebook](Linear-Algebra/Appendix-I_Plotting-a-System-of-Linear-Equations.ipynb)
+See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github.com/omarmamdouhismaiel/Data-Science-Theory/blob/d0895fa3f1e0e4435b6d9649b1f3da6e601c0b6d/Linear-Algebra/Appendix-I_Plotting-a-System-of-Linear-Equations.ipynb)
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 > <p>Alternatively, problem can be solved <strong><em>algebraically</em></strong>:
