@@ -110,4 +110,10 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
 <p align="left", font-weight: "bold">3. No solutions, where {equation 1: <em>w</em> = <em>t</em>, and equation 2: <em>w</em> = <em>t</em>-30}<br /></p>
 <br />
 
-<h4 align="center"> So, Let's dive into <strong><strong>"Computational Linear Algebra"</strong></strong> with <strong><em>theory-behind</em><strong> explanation.</h4>
+---------------------------------------------------------------------------------
+> <h2 align="center"> So, Let's dive into <strong><strong>"Computational Linear Algebra"</strong></strong> with <strong><em>theory-behind</em><strong> explanation.</h2>
+  1. Introductory Linear Algebra.
+  2. Affine Transformations.
+  3. Matrix Operations for ML.
+ 
+  
