@@ -115,5 +115,4 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
   1. Introductory Linear Algebra.
   2. Affine Transformations.
   3. Matrix Operations for ML.
- 
-  
+ ---------------------------------------------------------------------------------
