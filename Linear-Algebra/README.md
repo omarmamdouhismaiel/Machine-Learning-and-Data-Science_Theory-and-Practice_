@@ -111,6 +111,18 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
 <br />
 
 ---------------------------------------------------------------------------------
+
+<h2 align="left", font-weight: "bold">Solving Linear Systems:</h2>
+
+<h3 align="left", font-weight: "bold"> Method 1:Substitution</h3>
+
+<h3 align="left", font-weight: "bold"> Method 2:Elimination</h3>
+
+<p align="left", font-weight: "bold">Ahmed designs solar panels as a hobby.</p>
+
+<br />
+
+---------------------------------------------------------------------------------
 > <h2 align="center"> So, Let's dive into <strong><strong>"Computational Linear Algebra"</strong></strong> with <strong><em>theory-behind</em><strong> explanation.</h2>
   1. Introductory Linear Algebra.
   2. Affine Transformations.
