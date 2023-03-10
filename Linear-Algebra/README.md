@@ -119,7 +119,21 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
 
 For example, when solving for $x$ and $y$ in the following system:
 
-<p align="center">$y$ = 3$x$</p>
+<p align="center"><em>y</em> = 3<em>x</em></p>
+<p align="center">-5<em>x</em> + 2<em>y</em> = 2</p>
+...we can substitute <em>y</em> with 3<em>x</em> in the second equation.
+
+<p align="center">-5<em>x</em> + 2<em>y</em> = 2</p>
+<p align="center">-5<em>x</em> + 2<em>3<em>x</em></em> = 2</p>
+<p align="center">-5<em>x</em> + 6<em>x</em> = 2</p>
+<p align="center"><em>x</em> = 2</p>
+<br />
+<p align="center"><em>y</em> = 3<em>x</em></p>
+<p align="center"><em>y</em> = 3(2)</p>
+<p align="center"><em>y</em> = 6</p>
+<br />
+<p align="center">$\therefore $ (<em>x</em>,<em>y</em>) = (2,6)</p>
+
 
 <h3 align="left", font-weight: "bold"> Method 2:Elimination</h3>
 
