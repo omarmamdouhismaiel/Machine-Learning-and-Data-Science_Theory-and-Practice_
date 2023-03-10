@@ -115,32 +115,51 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
 <h2 align="left", font-weight: "bold">Solving Linear Systems:</h2>
 
 <h3 align="left", font-weight: "bold"> Method 1:Substitution</h3>
-* Use whenever there's a variable in system with coefficient of 1
 
-For example, when solving for $x$ and $y$ in the following system:
++ Use whenever there's a variable in system with coefficient of 1
 
+For example, when solving for *x* and *y* in the following system:
 <p align="center"><em>y</em> = 3<em>x</em></p>
 <p align="center">-5<em>x</em> + 2<em>y</em> = 2</p>
 ...we can substitute <em>y</em> with 3<em>x</em> in the second equation.
-
-<p align="center">-5<em>x</em> + 2<em>y</em> = 2</p>
-<p align="center">-5<em>x</em> + 2<em>3<em>x</em></em> = 2</p>
+<br \>
+<br \>
+<p align="center", font-weight: "bold"><strong>Solution</strong></p>
+<p align="center">System of Equations = { <strong>1st-eq</strong>: <em>y</em> = 3<em>x</em>, <strong>2st-eq</strong>: -5<em>x</em> + 2<em>y</em> = 2 }</p>
+<p align="center">-5<em>x</em> + 2<em>y</em> = 2,  substitute with <strong>1st-eq</strong> in <strong>2st-eq</strong></p>
+<p align="center">-5<em>x</em> + 2<em>(3<em>x</em>)</em> = 2</p>
 <p align="center">-5<em>x</em> + 6<em>x</em> = 2</p>
 <p align="center"><em>x</em> = 2</p>
-<br />
-<p align="center"><em>y</em> = 3<em>x</em></p>
+<p align="center"><em>y</em> = 3<em>x</em>,  substitute with (<em>x</em>=2) in <strong>1st-eq</strong></p>
 <p align="center"><em>y</em> = 3(2)</p>
 <p align="center"><em>y</em> = 6</p>
-<br />
-<p align="center"> ∴ (<em>x</em>,<em>y</em>) = (2,6)</p>
-
+<p align="center">∴ (<em>x</em>, <em>y</em>) = (2, 6)</p>
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 
 <h3 align="left", font-weight: "bold"> Method 2:Elimination</h3>
 
-<p align="left", font-weight: "bold">Ahmed designs solar panels as a hobby.</p>
++ Typically best option if no variable in system has coefficient of 1
++ Use *addition property* of equations to eliminate variables
+  + If necessary, multiply one or both equations to make elimination of a variable possible
 
-<br />
+For example, solve for the unknowns in the following system:
+<p align="center">2<em>x</em> - 3<em>y</em> = 15</p>
+<p align="center">4<em>x</em> + 10<em>y</em> = 14</p>
+...by multiplying the first equation by -2 and adding the equations.
+<br \>
+<br \>
+<p align="center", font-weight: "bold"><strong>Solution</strong></p>
+<p align="center">System of Equations = { <strong>1st-eq</strong>: 2<em>x</em> - 3<em>y</em> = 15, <strong>2st-eq</strong>: 4<em>x</em> + 10<em>y</em> = 14 }</p>
+<p align="center">-4<em>x</em> + 6<em>y</em> = -30,  multiply <strong>1st-eq</strong> by -2</p>
+<p align="center">4<em>x</em> + 10<em>y</em> = 14,  add to <strong>2st-eq</strong></p>
+<p align="center">16<em>y</em> = -16,  divide by 16</p>
+<p align="center"><em>y</em> = -1</p>
+<p align="center">2<em>x</em> - 3<em>y</em> = 15,  substitute with (<em>y</em>=-1) in <strong>1st-eq</strong></p>
+<p align="center">2<em>x</em> - 3(-1) = 15</p>
+<p align="center">2<em>x</em> + 3 = 15</p>
+<p align="center">2<em>x</em> = 12</p>
+<p align="center"><em>x</em> = 6</p>
+<p align="center">∴ (<em>x</em>, <em>y</em>) = (6, -1)</p>
 
 ---------------------------------------------------------------------------------
 > <h2 align="center"> So, Let's dive into <strong><strong>"Computational Linear Algebra"</strong></strong> with <strong><em>theory-behind</em><strong> explanation.</h2>
