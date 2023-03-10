@@ -115,6 +115,11 @@ See: [Appendix-I: Plotting a System of Linear Equations Notebook](https://github
 <h2 align="left", font-weight: "bold">Solving Linear Systems:</h2>
 
 <h3 align="left", font-weight: "bold"> Method 1:Substitution</h3>
+* Use whenever there's a variable in system with coefficient of 1
+
+For example, when solving for $x$ and $y$ in the following system:
+
+<p align="center">$y$ = 3$x$</p>
 
 <h3 align="left", font-weight: "bold"> Method 2:Elimination</h3>
 
