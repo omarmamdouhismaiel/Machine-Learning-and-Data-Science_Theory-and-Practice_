@@ -161,6 +161,8 @@ For example, solve for the unknowns in the following system:
 <p align="center"><em>x</em> = 6</p>
 <p align="center">∴ (<em>x</em>, <em>y</em>) = (6, -1)</p>
 
+See: [Appendix-II: Linear Systems Visualization Notebook](https://github.com/omarmamdouhismaiel/Data-Science-Theory/blob/d25f10ca1f5bab8c7d4a2b8ea56fe2b01d01be5c/Linear-Algebra/Appendix-II_Linear-Systems-Visualization.ipynb)
+
 ---------------------------------------------------------------------------------
 > <h2 align="center"> So, Let's dive into <strong><strong>"Computational Linear Algebra"</strong></strong> with <strong><em>theory-behind</em><strong> explanation.</h2>
   1. Introductory Linear Algebra.
