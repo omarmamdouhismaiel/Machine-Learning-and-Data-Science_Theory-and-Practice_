@@ -1,4 +1,4 @@
-# Machine-Learning-and-Data-Science_Theory-and-Practice
+# Machine Learning & Data Science 'Theory & Practice'
 Fundamentals of Data &amp; Machine Learning Science.
 
 ## References:
